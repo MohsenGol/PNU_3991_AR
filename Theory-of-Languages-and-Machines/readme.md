@@ -1,9 +1,9 @@
 <div dir="rtl">
-       
+
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
-## Research and Presentation Methods
+## Theory-of-Languages-and-Machines
 ## محسن گلی
 - [PNU_3991_AR](https://github.com/MohsenGol/PNU_3991_AR)
 - [Resume](https://mohsengol.github.io/CV/) 
@@ -13,16 +13,21 @@
 --------------------------
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
-- [منبع درس  روش پژوهش و ارائه](#CourseRef)
-- [سیلابس درس](#Curriculum)
-- [دروس مشابه](#RelatedCourses)
-- [دیگر منابع](#RelatedRef)
-- [گروه ها](#Groups) 
+- فهرست دانشجویان - ردیف کل
+- منبع درس  نظریه زبانها و ماشین ها
+- سیلابس درس
+- دروس مشابه
+- دیگر منابع
+- [گروه ها](#Groups)
 
 <a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
+
+<details>
+    <summary>فعالیت های مشترک همه دانشجویان</summary>
+    
 1. **فعالیت های مشترک همه دانشجویان**
-    1. [ساخت اکانت گیت هاب](https://github.com/MohsenGol)
+     1. [ساخت اکانت گیت هاب](https://github.com/MohsenGol)
     2. [آموزش گیت در سایت پچ ورک](https://mohsengol.github.io/jlord-patchwork/)
     3. [ارائه رزومه](https://mohsengol.github.io/CV/)
     4. [ارائه انگیزه نامه](https://mohsengol.github.io/CV/single-Farsi.html)
@@ -30,44 +35,51 @@
     6. [گذراندن دوره js از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
     8. [مشارکت در گروهای درسی](#Groups)
-2. **فعالیت گروهی**
-    1. معرفی یک درس مشابه در دانشگاههای دیگر
-        - هر 10 نفر یک درس
-            - [دانشگاه صنعتی شریف-درس شیوه های ارائه مطالب علمی وفنی](http://ce.sharif.edu/courses/94-95/1/ce221-1/index.php)
-    2. **جستجوی منابع دیگر** 
-        - هر گروه، روش پژوهش یک پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار از دانشگاههای معتبر را عیناً(بدون ترجمه یا تحلیل) معرفی نماید
-            - [RIT-Rochester Institute of Technology](https://scholarworks.rit.edu/theses/10263/)
-                - [Understanding gaps between established Software Engineering Process-Research Methodology-Chapter 3-Page 6](https://github.com/MohsenGol/PNU_3991_AR-ResearchAndPresentationMethods) 
-        - [E-Research: Methods, Strategies, and Issues 1st Edition](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up) 
-    3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
-        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
-            - **از صفحه :** 178
-            - **تا صفحه :** 180
-    4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
-        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 178 تا 180
-        - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید
+</details>
+    
+2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
+    - شماره ردیف دانشجو به پیمانه 11 
+     ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
+    - [**ارائه شفاهی پاور فصل ۲ **]()
+    
+3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
+    - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_IntroductionToAutomataTheory_Kandar)
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+        - **از صفحه :** 225
+        - **تا صفحه :** 228
+            - [منو ببین!](https://mahdi-hashemi.github.io/Calculate_pages/index.html)
+     - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
+          - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
 
----------------
+4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+    	
 
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+   
+----------------
 <a name="Groups"></a>
 <details>
     <summary>گروه ها</summary>
 
-
 ## گروه ها
 
-<a name="G-R09"></a>
+<a name="G-L12"></a>
 
-9. G-R09
-    1. [_RPM01-60_محسن گلي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/60_%D9%85%D8%AD%D8%B3%D9%86%20%DA%AF%D9%84%D9%8A)    
-    1. []()    
-    1. []()    
-    1. []()    
-    1. []()    
+12. G-L12
+    1. [ TLM01-57_محسن گلي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/57_%D9%85%D8%AD%D8%B3%D9%86%20%DA%AF%D9%84%D9%8A)
     1. []()
-    
+    1. []()
+    1. []()
+    1. []()
+
+
 </details>
+
 
 [<kbd>↩</kbd>](#TOC)
 
 </div>
+
