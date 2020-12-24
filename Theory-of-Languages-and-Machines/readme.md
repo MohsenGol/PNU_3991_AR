@@ -19,7 +19,7 @@
 - دروس مشابه
 - دیگر منابع
 - [گروه ها](#Groups)
-
+------------------
 <a name="Evaluation"></a>
 
 ## سیاهه ارزشیابی درس
@@ -33,21 +33,18 @@
     6. [گذراندن دوره js از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
     8. [مشارکت در گروهای درسی](#Groups)
-    
+    ----------------
 2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     - [**ارائه شفاهی پاور فصل ۲ **]()
-    
+    ----------------
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
     - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_IntroductionToAutomataTheory_Kandar)
     - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** 225
         - **تا صفحه :** 228
-            - [منو ببین!](https://mahdi-hashemi.github.io/Calculate_pages/index.html)
-     - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
-          - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
-
+     ---------------
 4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
     - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
     	
@@ -55,8 +52,7 @@
 [<kbd>↩</kbd>](#TOC)
 
 </details>
-   
-----------------
+   ----------------
 <a name="Groups"></a>
 
 ## گروه ها
