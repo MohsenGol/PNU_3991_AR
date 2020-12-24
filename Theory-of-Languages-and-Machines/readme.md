@@ -23,7 +23,7 @@
 <a name="Evaluation"></a>
 
 ## سیاهه ارزشیابی درس
-    <summary>فعالیت های مشترک همه دانشجویان</summary>    
+     
 1. **فعالیت های مشترک همه دانشجویان**
      1. [ساخت اکانت گیت هاب](https://github.com/MohsenGol)
     2. [آموزش گیت در سایت پچ ورک](https://mohsengol.github.io/jlord-patchwork/)
@@ -58,7 +58,6 @@
    
 ----------------
 <a name="Groups"></a>
-    <summary>گروه ها</summary>
 
 ## گروه ها
 
