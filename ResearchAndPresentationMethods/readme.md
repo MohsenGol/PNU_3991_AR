@@ -29,7 +29,7 @@
     5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/MohsenGol/PNU_3991)
     6. [گذراندن دوره js از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
-    8. مشارکت در گروهای درسی
+    8. [مشارکت در گروهای درسی](#Groups)
 2. **فعالیت گروهی**
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
