@@ -21,11 +21,9 @@
 - [گروه ها](#Groups)
 
 <a name="Evaluation"></a>
-## سیاهه ارزشیابی درس
 
-<details>
-    <summary>فعالیت های مشترک همه دانشجویان</summary>
-    
+## سیاهه ارزشیابی درس
+    <summary>فعالیت های مشترک همه دانشجویان</summary>    
 1. **فعالیت های مشترک همه دانشجویان**
      1. [ساخت اکانت گیت هاب](https://github.com/MohsenGol)
     2. [آموزش گیت در سایت پچ ورک](https://mohsengol.github.io/jlord-patchwork/)
@@ -35,7 +33,6 @@
     6. [گذراندن دوره js از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
     8. [مشارکت در گروهای درسی](#Groups)
-</details>
     
 2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
@@ -61,7 +58,6 @@
    
 ----------------
 <a name="Groups"></a>
-<details>
     <summary>گروه ها</summary>
 
 ## گروه ها
@@ -74,10 +70,6 @@
     1. []()
     1. []()
     1. []()
-
-
-</details>
-
 
 [<kbd>↩</kbd>](#TOC)
 
