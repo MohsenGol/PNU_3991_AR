@@ -10,7 +10,7 @@
 - [SOP](https://mohsengol.github.io/CV/single-Farsi.html)
 - [Certificates](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
 - [GitHub](https://github.com/MohsenGol)
---------------------------
+
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
 - فهرست دانشجویان - ردیف کل
@@ -19,7 +19,7 @@
 - دروس مشابه
 - دیگر منابع
 - [گروه ها](#Groups)
-------------------
+
 <a name="Evaluation"></a>
 
 ## سیاهه ارزشیابی درس
@@ -38,13 +38,13 @@
     - شماره ردیف دانشجو به پیمانه 11 
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     - [**ارائه شفاهی پاور فصل ۲ **]()
-    ----------------
+   
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
     - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_IntroductionToAutomataTheory_Kandar)
     - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** 225
         - **تا صفحه :** 228
-     ---------------
+     
 4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
     - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
     	
@@ -52,9 +52,8 @@
 [<kbd>↩</kbd>](#TOC)
 
 </details>
----------------
-<a name="Groups"></a>
 
+<a name="Groups"></a>
 ## گروه ها
 
 <a name="G-L12"></a>
