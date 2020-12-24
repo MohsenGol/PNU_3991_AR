@@ -54,9 +54,6 @@
 ---------------
 
 <a name="Groups"></a>
-<details>
-    <summary>گروه ها</summary>
-
 
 ## گروه ها
 
@@ -70,8 +67,6 @@
     1. []()    
     1. []()
     
-</details>
-
 [<kbd>↩</kbd>](#TOC)
 
 </div>
