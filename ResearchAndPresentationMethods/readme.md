@@ -30,19 +30,23 @@
     6. [گذراندن دوره js از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
     8. [مشارکت در گروهای درسی](#Groups)
+    
 2. **فعالیت گروهی**
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
             - [دانشگاه صنعتی شریف-درس شیوه های ارائه مطالب علمی وفنی](http://ce.sharif.edu/courses/94-95/1/ce221-1/index.php)
+            
     2. **جستجوی منابع دیگر** 
         - هر گروه، روش پژوهش یک پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار از دانشگاههای معتبر را عیناً(بدون ترجمه یا تحلیل) معرفی نماید
             - [RIT-Rochester Institute of Technology](https://scholarworks.rit.edu/theses/10263/)
                 - [Understanding gaps between established Software Engineering Process-Research Methodology-Chapter 3-Page 6](https://github.com/MohsenGol/PNU_3991_AR-ResearchAndPresentationMethods) 
         - [E-Research: Methods, Strategies, and Issues 1st Edition](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up) 
+        
     3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
             - **از صفحه :** 178
             - **تا صفحه :** 180
+            
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 178 تا 180
         - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید
