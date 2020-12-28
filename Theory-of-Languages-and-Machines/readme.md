@@ -45,7 +45,7 @@
         - **تا صفحه :** 228
      
 4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
-    - [ارائه دو مثال باBeamer](https://github.com/MohsenGol/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Beamer) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+    - [ارائه دو مثال با بیمر](https://github.com/MohsenGol/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Beamer) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
     	
 
 [<kbd>↩</kbd>](#TOC)
