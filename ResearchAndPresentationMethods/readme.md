@@ -43,7 +43,7 @@
         - [E-Research: Methods, Strategies, and Issues 1st Edition](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up) 
         
     3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
-        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
+        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 178 تا 180
             - **از صفحه :** 178
             - **تا صفحه :** 180
             
