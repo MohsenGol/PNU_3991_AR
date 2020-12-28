@@ -1,0 +1,205 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\framepic[10.8]{images/book}{
+ \begin{textblock}{7}(7,2.5)
+    {\color{colorblue}\hugetext{\textbf{}}}
+ \end{textblock}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}
+		
+			\frametitle{Example 5.2 
+			\textnormal{\small Built regular expression of the following\\\vspace{3mm}
+\noindent\!\!\!\!\!\!\!\!\!\!(i)	An RE consists of any combination of a and b, beginning with a and ending with b.\\\vspace{3mm}
+\noindent\!\!\!\!\!\!\!\!\!\!(ii)	A language of any combination of a and b containing abb as a substring.\\\vspace{3mm}
+\noindent\!\!\!\!\!\!\!\!\!\!(iii)	RE of a and b containing at least 2 ‘a’s.\\\vspace{3mm}
+\noindent\!\!\!\!\!\!\!\!\!\!(iv)	Write an RE for the language $L =\{a^nb^m | where \ $m+n$ \ is\ even\}$.\\\vspace{3mm}
+\noindent\!\!\!\!\!\!\!\!\!\!(v)	An RE of a and b, having exactly one ‘a’.}
+		}
+		
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}
+		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+
+\noindent\!\!\!\!\!\!\!\!\!\!(i)	The RE consists of any combination of a and b, i.e., (a +b)*. But the RE starts with a and ends\\ with b. In between a and b, any combination of a and b occurs. So, the RE is\\
+\begin{center}
+L =a(a +b)*b.
+\end{center}
+\end{solution}
+		
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}
+		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\noindent\!\!\!\!\!\!\!\!\!\!(ii)	In the RE, abb occurs as a substring. The RE consists of any combination of a and b. Before the substring, abb may occur at the beginning, at the middle, or at the last. If abb occurs at the begin- ning, then after abb there is any combination of a and b. If abb occurs at the middle, then before and after abb there are any combination of a and b. If abb occurs at the last, then before abb there is any combination of a and b.\\
+The RE is L =(a + b)*abb(a +b)*.
+
+\end{solution}
+		
+	\end{frame}	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\begin{frame}
+		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\noindent\!\!\!\!\!\!\!\!\!\!(iii)	In the RE, there are at least two ‘a’s. The expression consists of a and b. Therefore, any number of ‘b’
+can occur before the ﬁrst ‘a’ and before the second ‘a’, i.e., after the ﬁrst ‘a’ and after the second ‘a’. So, the RE will be L = b*ab*ab*.
+
+\end{solution}
+		
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\begin{frame}
+		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\noindent\!\!\!\!\!\!\!\!\!\!(iv)	The RE consists of n number of ‘a’ followed by m number of ‘b’. But m +  n is always even. This is possible if\\
+(a)	m and n both are even or (b) m and n both are odd.\\
+If m and n are both even, then the expression is (aa)*(bb)*.\\ If m and n are both odd, then the expression is (aa)*a(bb)*b.\\ By combining these two, the ﬁnal RE becomes
+
+\begin{center}
+L =(aa)*(bb)* +(aa)*a(bb)*b.
+\end{center}
+\end{solution}
+		
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}
+		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\noindent\!\!\!\!\!\!\!\!\!\!(v)	In the RE, there is exactly one ‘a’. Before and after a, there is any combination of b.\\ Therefore, the RE is L =b*ab*. 
+
+\section{\sffamily{Identities of Regular Expression}}
+An \emph{identity} is a relation which is tautologically true. In mathematics, an equation which is true for every value of the variable is called an identity equation. As an example, $(a +b)^2 =a^2 +2ab+ b2$ is an identity equation. Based on these identities, some other problems can be proved. In the RE also, there are some identities which are true for every RE. In this section, we shall discuss those identities related to RE.
+
+\end{solution}
+		
+	\end{frame}	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\begin{frame}
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\begin{listing} 
+   1.  $\emptyset+R =R+\emptyset =R$\\\vspace{2mm}
+\quad Proof:$ LHS: \emptyset +R$\\
+\qquad\qquad$= \emptyset \cup R$\\
+\qquad\qquad$ = \{ \} \cup \{\ Elements \ of\ R\} = R =RHS$\\\vspace{2mm}
+   2.  $\emptyset R= R \emptyset =\emptyset$\\\vspace{2mm}\vspace{2mm}
+\quad Proof:$ LHS: \emptyset R$\\
+\qquad\qquad$= \emptyset \cap R$\\
+\qquad\qquad$= \{ \} \cap \{Elements of R\} =\emptyset = RHS$\\\vspace{2mm}
+
+       Note: In both the previous cases, $\emptyset$ denotes a null set, which contains nothing.\\
+\end{listing}
+      \end{solution}
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\begin{listing} 
+   3.  $\Lambda R = R\Lambda = R$\vspace{2mm}
+
+\quad Proof: $LHS: \Lambda R$\\
+\qquad\qquad$=$ Null string concatenated with any symbol of R\\
+\qquad\qquad$= $Same symbol$ \in R = R = RHS$\\\vspace{2mm}
+   4. $\Lambda* = \Lambda \& \emptyset^* = \Lambda$\\\vspace{2mm}
+\quad Proof: $LHS: \Lambda^* = \{\Lambda, \Lambda\Lambda, \Lambda\Lambda\Lambda……. \}$\\
+\qquad\qquad$=\{\Lambda, \Lambda, \Lambda, …..\} [according\ to\ identity\ (3)]$\\
+\qquad\qquad$=\Lambda = RHS.$
+
+      Same for $\emptyset^*$.
+\end{listing}
+	\end{solution}	
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\begin{listing} 
+   5. $R+ R = R$\\\vspace{2mm}
+\quad   Proof: $LHS: R + R = R(\Lambda +\Lambda) = R \Lambda$\\
+\qquad\qquad$= R$ [according to identity (3)] $= RHS$\\\vspace{2mm}
+
+   6. $R^*R^* = R^* $\\\vspace{2mm}
+
+\quad Proof: $LHS: R^*R^* = \{\Lambda, R, RR……\} \{\Lambda, R, RR……\}$\\
+\qquad\qquad$= \{\Lambda\Lambda, \Lambda R, \Lambda RR, ….., R\Lambda, RR, …, RRΛ, RRR, …. \}$\\
+\qquad\qquad$= \{Λ, R, RR, RRR, ….. \} [using\ identity\ (3)] = R^* = RHS$
+\end{listing}
+\end{solution}		
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\begin{listing} 
+   7. $R^*R = RR^*$\\\vspace{2mm}
+\quad Proof: $LHS: R^*R = \{\Lambda, R, RR, RRR, ….. \} R$\\
+\qquad\qquad$ = \{\Lambda R, RR, RRR, RRRR, ….. \}$\\
+\qquad\qquad$=  R\{\Lambda, R, RR, RRR, ….. \} = RR^* = RHS$\vspace{2mm}
+
+   8.$ (R^*)^* = R^*$\\\vspace{2mm}
+
+\quad Proof:$ LHS: (R^*)^* = \{\Lambda, R^*R^*, R^*R^*R^*, ….. \}$\\
+\qquad\qquad$= \{\Lambda, R^*, R^*, ….. \}$ [using\ identity\ (6)]\\
+\qquad\qquad$= \{\Lambda, \{\Lambda, R, RR, RRR, ….. \}, \{\Lambda, R, RR, RRR, ….. \}, …. \}$\\
+             \qquad\qquad $=  R^* =  RHS$
+\end{listing}
+\end{solution}		
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\begin{listing} 
+  9. $\Lambda + RR^* = \Lambda +  R^*R = R^*$\\\vspace{2mm}
+
+\quad Proof: $LHS: \Lambda + RR^* = \Lambda + R \{\Lambda, R, RR, RRR, ….. \}$\\
+\qquad\qquad$ = \Lambda + \{R\Lambda, RR, RRR, RRRR, ….. \}$\\
+\qquad\qquad$ = \Lambda + \{R, RR, RRR, RRRR, ….. \}$\\
+\qquad\qquad$ = \{\Lambda, R, RR, RRR, RRRR, ….. \} = R^* = RHS$\\\vspace{2mm}
+
+   10. $(PQ)^*P = P(QP)^*$\\\vspace{2mm}
+
+\quad Proof: $LHS: (PQ)^*P = \{\Lambda, PQ, PQPQ, PQPQPQ, ….. \}P$\\
+\qquad\qquad$= \{P,PQP, PQPQP, PQPQPQP,…..\}$\\
+\qquad\qquad$= P\{\Lambda, QP, QPQP, QPQPQP, ……. \}$\\
+\qquad\qquad$= P(QP)^* = RHS$
+\end{listing}
+\end{solution}		
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}		
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}
+\begin{listing} 
+   11. $(P + Q)^* = (P^*Q^*)^* = (P^* + Q^*)^*$ (D’Morgan’s theorem)\\\vspace{2mm}
+   12. $(P + Q)R = PR + QR$\\\vspace{2mm}
+
+\quad  Proof:$ Let a \in (P+Q)R$\\
+\qquad\qquad$= a \in PR or QR = RHS.$\\
+\end{listing}
+\end{solution}	
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
+\begin{frame}		
+			\frametitle{Example 5.3 
+			\textnormal{\small {From the identities of RE, prove that}}\\
+
+\small$(1 + 100^*) + (1 + 100^*)(0 + 10^*)(0 + 10^*)^* = 10^*(0 +10^*)^*.$
+		}	
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\begin{solution}{LHS}
+\end{solution}
+\begin{listing} 
+\begin{center}
+                        $(1 + 100^*) + (1 + 100^*)(0 + 10^*)(0 + 10^*)^*$\\
+\!\!\!\!\!\!\!\!\!\!\!$= (1 + 100^*) (\Lambda + (0 + 10^*)(0 + 10^*)^*)$\\
+\qquad\qquad\;$= (1 + 100^*)(0 + 10^*)^*$ (according to $\Lambda + RR^* = R^*)$\\
+\hspace{-33mm} $=1(\Lambda + 00^*)(0 + 10^*)^*$\\
+\hspace{-33mm} $= 10^*(0 + 10^*)^* = RHS.$
+\end{center}
+\end{listing}
+	\end{frame}	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
