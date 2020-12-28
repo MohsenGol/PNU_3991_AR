@@ -40,7 +40,7 @@
     - [**ارائه شفاهی پاور فصل ۲ **]()
    
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
-    - [Shyamalendu Kandar](https://github.com/MohsenGol/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Pages%20of%20Book%20by%20Latex%20225-228) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+    - [ارائه نوشتاری بالاتک](https://github.com/MohsenGol/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Pages%20of%20Book%20by%20Latex%20225-228) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** 225
         - **تا صفحه :** 228
      
